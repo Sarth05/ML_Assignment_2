@@ -318,3 +318,11 @@ The experimental comparison shows that different algorithms perform differently 
 
 The project provides an interactive application for evaluating all five saved models without requiring model retraining.
 
+
+
+## Project Links
+
+**GitHub Repository:** https://github.com/Sarth05/ML_Assignment_2
+
+**Live Streamlit Application:** https://mlassignment2-gtdewqet4xk6pavbyza4pb.streamlit.app
+
